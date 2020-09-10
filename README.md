@@ -1,2 +1,2 @@
-# flutter_chat_ui
+# SocialMedia_UI
 A front-end development of social media app
